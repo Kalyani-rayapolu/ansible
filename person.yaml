@@ -1,0 +1,21 @@
+- name: Kalyani
+  DOB: "20-01-1991"
+  Sex: Female
+  Address:
+  - address1: Permanent
+    H.No: 1-9-959/1
+    Street: 7
+    Area: Adikmet
+    Landmark: Near Hanuman temple
+    Mandal: Musheerabad
+    City: Hyderabd
+    Pincode: 500044
+  - address1: office
+    H.No: 7-88/8
+    Street: 7
+    Area: Shankar nagar, Peerzadiguda
+    Landmark: Beside Isha Hospitsl lnae
+    Mandal: RangaReddy
+    City: Hyderabd
+    Pincode: 500039
+
