@@ -2,5 +2,5 @@
   hosts: localhost
   tasks: 
   - name: ping the server
-    ansible.builtin.debug: 
+    ansible.builtin.ping: 
       msg: "Learning Devops"   
