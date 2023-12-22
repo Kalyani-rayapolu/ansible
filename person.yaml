@@ -1,5 +1,5 @@
 - name: Kalyani
-  DOB: "20-01-1991"
+  Dob: 20-01-1991
   Sex: Female
   Address:
   - address1: Permanent
